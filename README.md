@@ -1,5 +1,7 @@
 #Ignition
 ###### A modern social retro gaming OS designed for your living room.
+
+[![Join the chat at https://gitter.im/alexjstubbs/ignition-dev](https://badges.gitter.im/alexjstubbs/ignition-dev.svg)](https://gitter.im/alexjstubbs/ignition-dev?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 --
 
 ### What is ignition?
